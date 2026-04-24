@@ -1,0 +1,9 @@
+[
+
+    {"name": "Amit", "class" : "10", "marks": 80},
+    {"name": "Neha", "class" : "10", "marks": 70},
+    {"name" : "Raj", "class": "10", "marks": 90},
+    {"name": "Simran", "class": "9", "marks": 85},
+    {"name": "Karan", "class":"9", "marks": 75}
+    
+]
